@@ -15,7 +15,7 @@
 
 This is a challenge developed on Stage 4 in the Explorer course at the [Rocketseat School](https://www.rocketseat.com.br/). To access the entire course's projects click on this [link](https://github.com/jeadamek/explorer-rocketseat). 
 
-The main goal of the challenge is to practice logic and algorithms using JavaScript language..
+The main goal of the challenge is to practice logic and algorithms using JavaScript language.
 
 ### 🎯 Challenge:
 Ask the user to enter **two numbers**, and then, show the math:
